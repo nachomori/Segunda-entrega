@@ -50,7 +50,12 @@ main {
     border: #A31621;
     
 }
-
+aside {
+    padding: 1rem;
+    font-size: 18px;
+    justify-content: right;
+    
+}
 
 @media (max-width:374px) {
     .main {
